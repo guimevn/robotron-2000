@@ -2,7 +2,7 @@
 
 # Robotron 2000
 
-Robotron 2000 is a virtual robot creator where you can adjust by clicking its strength, speed, power and energy.
+Robotron 2000 is a virtual robot creator where you can adjust it by clicking its strength, speed, power and energy.
 
 <img src="https://user-images.githubusercontent.com/54328227/214455270-98e6875c-982b-4d93-8bf9-ed61e99b0385.png" alt="Robotron 2000 Image" width="50%">
 
